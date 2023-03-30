@@ -1,0 +1,2 @@
+file,begin,end,speaker,overall_log_likelihood,speech_log_likelihood,phone_duration_deviation
+synthesized_audio,0.0,79.027007,align,-3.8679081245254365,-47.716179486873486,0.7515084838153915
